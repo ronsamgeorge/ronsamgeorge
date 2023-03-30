@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm [Ronald George] 👋
+### Hi there, I'm Ronald George 👋
 
 I'm an aspiring software engineer with 1 year of experience as a Cloud Engineer at AWS. I have expertise in the MERN stack, Postgres, AWS SERVERLESS Services and I'm always excited to learn new technologies.
 
